@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.cd38a754.css",
+    "main.js": "/react-portfolio/static/js/main.967584ea.js",
+    "static/media/ATMSimulatorImage.png": "/react-portfolio/static/media/ATMSimulatorImage.33e9b04f3fc991293419.png",
+    "static/media/profile.png": "/react-portfolio/static/media/profile.2ef056fad0c32bf566cc.png",
+    "static/media/cplusplus.png": "/react-portfolio/static/media/cplusplus.a9f285cbd6720fa1bcff.png",
+    "static/media/e-mail.png": "/react-portfolio/static/media/e-mail.b91e72e3298d10ef8da7.png",
+    "static/media/background.png": "/react-portfolio/static/media/background.a8f6980dba2ede518304.png",
+    "static/media/ShootingGameImage.png": "/react-portfolio/static/media/ShootingGameImage.8b27bf217bf03bd5c8fb.png",
+    "static/media/JapaneseWebsiteImage.png": "/react-portfolio/static/media/JapaneseWebsiteImage.c41ce7db193e899bbd4d.png",
+    "static/media/react.png": "/react-portfolio/static/media/react.5be46e1d4c29661f3347.png",
+    "static/media/python.png": "/react-portfolio/static/media/python.96937f8d02944ca02de2.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.cd38a754.css.map": "/react-portfolio/static/css/main.cd38a754.css.map",
+    "main.967584ea.js.map": "/react-portfolio/static/js/main.967584ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd38a754.css",
+    "static/js/main.967584ea.js"
+  ]
+}
