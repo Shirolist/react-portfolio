@@ -28,7 +28,7 @@ const Home = () => {
             <div class="col-md-4">
               {/* These is the first image of my project
                set the image style of the project */}
-              <img src={shootingGameImage} alt="Shooting Game" className="project-image" />
+              <img src={shootingGameImage} alt="Shooting Game" className="project-image"/>
               <h4 class="my-3">Shooting Game</h4>
               {/* The descrption of the project */}
               <p class="text-success">
@@ -78,17 +78,17 @@ const Home = () => {
           <h1 class="title">Skill</h1>
           <div class="row text-center">
             <div class="col-md-4 services">
-              <img src={reactimage} />
+              <img src={reactimage} alt="react js"/>
               <h4>React</h4>
               <p>This is react language.</p>
             </div>
             <div class="col-md-4 services">
-              <img src={pythonimage} />
+              <img src={pythonimage} alt="python image"/>
               <h4>python</h4>
               <p>This is python language.</p>
             </div>
             <div class="col-md-4 services">
-              <img src={cplusplusimage} />
+              <img src={cplusplusimage}  alt="c++ image"/>
               <h4>C++</h4>
               <p>This is C++ language.</p>
             </div>
