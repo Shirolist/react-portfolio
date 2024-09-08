@@ -27,7 +27,7 @@ const project = () => {
         </div>
 
         <div class="timeline-item">
-          <h4><a href="https://www.hkcc-polyu.edu.hk/en/home/index.html">HKCC Associate life</a></h4>
+          <h4><a href="https://www.hkcc-polyu.edu.hk/en/home/index.html" target="_blank" rel="noopener noreferrer">HKCC Associate life</a></h4>
           <h5>2020 - 2022</h5>
         </div>
 
@@ -52,7 +52,7 @@ const project = () => {
         </div>
 
         <div class="timeline-item">
-          <h4><a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University student</a></h4>
+          <h4><a href="https://www.polyu.edu.hk/" target="_blank" rel="noopener noreferrer">The Hong Kong Polytechnic University student</a></h4>
           <h5>2022 - 2023 </h5>
         </div>
 
@@ -77,7 +77,7 @@ const project = () => {
         </div>
 
         <div class="timeline-item">
-          <h4>The Education University of Hong Kong student</h4>
+          <h4><a href ="https://www.eduhk.hk/en/" target="_blank" rel="noopener noreferrer">The Education University of Hong Kong student</a></h4>
           <h5>2023/8/15 - </h5>
         </div>
 
